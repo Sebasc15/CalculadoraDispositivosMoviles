@@ -24,10 +24,16 @@ namespace GridCalculadora
 
         private void btnPlusMinus_Clicked(object sender, EventArgs e)
         {
+            /*
+             Pendiente.....
+             */
         }
 
         private void btnPercent_Clicked(object sender, EventArgs e)
         {
+            /*
+             Pendiente.....
+             */
         }
 
         private void btn7_Clicked(object sender, EventArgs e)
