@@ -1,0 +1,15 @@
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\bin\Debug\netstandard2.0\GridCalculadora.deps.json
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\bin\Debug\netstandard2.0\GridCalculadora.dll
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\bin\Debug\netstandard2.0\ref\GridCalculadora.dll
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\bin\Debug\netstandard2.0\GridCalculadora.pdb
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.csproj.AssemblyReference.cache
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.AssemblyInfoInputs.cache
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.AssemblyInfo.cs
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.dll
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\ref\GridCalculadora.dll
+C:\Users\tapia\source\repos\GridCalculadora\GridCalculadora\GridCalculadora\obj\Debug\netstandard2.0\GridCalculadora.pdb
